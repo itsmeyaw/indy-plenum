@@ -130,7 +130,7 @@ setup(
                         # 'six==1.15.0',
                         'six',
                         ### Tests fail without version pin (GHA run: https://github.com/udosson/indy-plenum/actions/runs/1078741118)
-                        'sortedcontainers==1.5.7',
+                        'sortedcontainers==1.5.10',
                         ### Tests fail without version pin (GHA run: https://github.com/udosson/indy-plenum/actions/runs/1078741118)
                         'ujson==1.33',
                         ],
